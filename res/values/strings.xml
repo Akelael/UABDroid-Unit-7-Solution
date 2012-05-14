@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, Unit7ExampleActivity!</string>
+    
     <string name="app_name">Unit7Example</string>
-
+    <string name="button_start_service">Iniciar servei</string>
+    <string name="button_stop_service">Aturar servei</string>
+    <string name="button_start_player">Iniciar reproducció</string>
+    <string name="button_stop_player">Aturar reproducció</string>
+    <string name="note">
+        La cançó utilitzada per aquest exemple (Set me free) pertany a Chasing Eidolon i 
+        està distribuïda amb una llicència Creative Commons. Podeu trobar més informació a http://www.jamendo.com/es/artist/361898/chasing-eidolon
+    </string>
+    
 </resources>
